@@ -1,0 +1,5 @@
+config BR2_PACKAGE_KVSTORECLIENT
+	bool "kvstoreclient"
+	help
+	  KVSTORECLIENT is a simple client app to interact with
+	  kvstoreapp using IPC
