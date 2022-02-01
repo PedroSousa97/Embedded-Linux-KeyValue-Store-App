@@ -44,12 +44,12 @@ Note2: Both shell script were tested on Ubuntu and should work just fine, if the
 ## Execute KVStoreAPP and Client App
 
 To execute the KVStoreAPP, after building it do the following:
-1- Open a terminal inside the KVStoreAPP folder;
-2- Type: ./kvstoreapp
+- Open a terminal inside the KVStoreAPP folder;
+- Type: ./kvstoreapp
 
 To execute the Client APP, after building it do the following:
-3- Open a terminal inside the Client folder;
-4- Type: ./clientapp
+- Open a terminal inside the Client folder;
+- Type: ./clientapp
 
 Note: Client App is a seperate app that I developed used to test the IPC capabilities of KVStoreAPP. The scripts won't build this application automatically, to build it you have to open a terminal inside the Client folder, and run the make command.
 
